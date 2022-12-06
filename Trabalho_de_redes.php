@@ -4,7 +4,7 @@
 <head>
 	<style>
 		body {
-			background-image: url("OIP.jpeg");
+			background-color: #c0c0ff;
 		}
 	</style>
 </head>
@@ -15,7 +15,7 @@
 
 <?php
 	echo nl2br("Alunos: José Barros, Nícolas Tasquetto e Rafael Tischler
-	Turma: 3º MSI b")
+	Turma: 3º M.S.I. B")
 ?>
 <h2>Introdução:</h2>
 
@@ -37,10 +37,11 @@
 <h2>Feedback:</h2>
 
 <?php
-	echo nl2br("- 
+	echo nl2br("- Disafiadora
+	- Diferenciada
+	- Interessante
 	")
 ?>
-
 
 <img src="Tux.png">
 </body>
