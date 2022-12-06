@@ -4,16 +4,11 @@
 <head>
 	<style>
 		body {
-			background-image: url("download (1).jpeg");
+			background-image: url("OIP.jpeg");
 		}
 	</style>
 </head>
 <body>
-	
-</body>
-</html>
-
-
 
 
 <h1>Trabalho de Rede de Computadores</h1>
@@ -46,4 +41,7 @@
 	")
 ?>
 
+
 <img src="Tux.png">
+</body>
+</html>
