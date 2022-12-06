@@ -2,21 +2,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<body>
 	<style>
 		body {
-			/*background-image: url("OIP.jpeg");*/
+			background-image: url("Tux.png");
+			filter: blur(10px);
 			background-color: #101010;
 			background-repeat: no-repeat;
 			background-size: cover;
 			position: relative;
 		}
 	</style>
-
+	
 <h1>Trabalho de Rede de Computadores</h1>
+
 	<style>
 		body {
-			text-decoration-color: #101010;
+			color: #fff;
 		}
 	</style>
 
@@ -48,7 +49,11 @@
 	")
 ?>
 
-
-<img src="download (5).jpeg">
-</body>
+	<style>
+		body {
+			imag: url("ra.png");
+			header: 100px;
+		}
+	</style>
+</head>
 </html>
