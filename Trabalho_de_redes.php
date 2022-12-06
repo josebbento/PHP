@@ -2,16 +2,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<body>
 	<style>
 		body {
-			background-image: url("OIP.jpeg");
+			/*background-image: url("OIP.jpeg");*/
+			background-color: #101010;
+			background-repeat: no-repeat;
+			background-size: cover;
+			position: relative;
 		}
 	</style>
-</head>
-<body>
-
 
 <h1>Trabalho de Rede de Computadores</h1>
+	<style>
+		body {
+			text-decoration-color: #101010;
+		}
+	</style>
 
 <?php
 	echo nl2br("Alunos: José Barros, Nícolas Tasquetto e Rafael Tischler
@@ -42,6 +49,6 @@
 ?>
 
 
-<img src="Tux.png">
+<img src="download (5).jpeg">
 </body>
 </html>
