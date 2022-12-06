@@ -1,3 +1,5 @@
+<title>Trab. De Redes</title>
+
 <h1>Trabalho de redes</h1>
 
 <?php
@@ -13,6 +15,7 @@
 		-
 
 	Porém, diante das dificuldades do trabalho e das experiencias obtidas, o grupo tira a seguinte conclusão da atividade:
-		
-		")
+		-
+		-
+		-")
 ?>
