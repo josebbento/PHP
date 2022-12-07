@@ -10,9 +10,6 @@
 			background-attachment: fixed;	/*a imagem fica fixada na página, se movendo junto com o scroll*/
 			
 		}
-		img:hover {			/*"quando o mouse estiver sobre a imagem"*/
-			opacity: 1;		
-		}
 	</style>
 </head>
 <body>
