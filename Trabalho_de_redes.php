@@ -8,7 +8,6 @@
 			background-position: center;	/*deixa a imagem no centro*/
 			background-size: cover;			/*tamanho, cover = cobrir*/
 			background-attachment: fixed;	/*a imagem fica fixada na página, se movendo junto com o scroll*/
-			
 		}
 	</style>
 </head>
@@ -50,7 +49,7 @@
 <img src="Tux.png">
 <style>
 	img {				/*configurações da imagem*/
-		opacity: 85%;	/*ocupacidade*/
+		opacity: 80%;	/*ocupacidade*/
 	}
 	img:hover {			/*configurações da imagem quando o mouse estiver sobre a imagem*/
 		opacity: .25;		/*ocupacidade*/
