@@ -4,26 +4,25 @@
 <head>
 	<style>
 		body {
-			background-image: url("Tux.png");
-			filter: blur(10px);
-			background-color: #101010;
-			background-repeat: no-repeat;
-			background-size: cover;
-			position: relative;
+			background-image: url("images.jpeg");
+			background-position: center;	/*deixa a imagem no centro*/
+			background-size: cover;			/*tamanho, cover = cobrir*/
+			background-attachment: fixed;	/*a imagem fica fixada na página, se movendo junto com o scroll*/
+			
+		}
+		img:hover {			/*"quando o mouse estiver sobre a imagem"*/
+			opacity: 1;		
 		}
 	</style>
-	
-<h1>Trabalho de Rede de Computadores</h1>
+</head>
+<body>
 
-	<style>
-		body {
-			color: #fff;
-		}
-	</style>
+
+<h1>Trabalho de Rede de Computadores</h1>
 
 <?php
 	echo nl2br("Alunos: José Barros, Nícolas Tasquetto e Rafael Tischler
-	Turma: 3º MSI b")
+	Turma: 3º M.S.I. B")
 ?>
 <h2>Introdução:</h2>
 
@@ -45,15 +44,20 @@
 <h2>Feedback:</h2>
 
 <?php
-	echo nl2br("- 
+	echo nl2br("- Disafiadora
+	- Diferenciada
+	- Interessante
 	")
 ?>
 
-	<style>
-		body {
-			imag: url("ra.png");
-			header: 100px;
-		}
-	</style>
-</head>
+<img src="Tux.png">
+<style>
+	img {				/*configurações da imagem*/
+		opacity: 85%;	/*ocupacidade*/
+	}
+	img:hover {			/*configurações da imagem quando o mouse estiver sobre a imagem*/
+		opacity: .25;		/*ocupacidade*/
+	}
+</style>
+</body>
 </html>
