@@ -4,18 +4,12 @@
 <head>
 	<style>
 		body {
-<<<<<<< HEAD
 			background-color: #c0c0ff;
-=======
 			background-image: url("images.jpeg");
 			background-position: center;	/*deixa a imagem no centro*/
 			background-size: cover;			/*tamanho, cover = cobrir*/
 			background-attachment: fixed;	/*a imagem fica fixada na página, se movendo junto com o scroll*/
 			
-		}
-		img:hover {			/*"quando o mouse estiver sobre a imagem"*/
-			opacity: 1;		
->>>>>>> imagem-de-fundo
 		}
 	</style>
 </head>
