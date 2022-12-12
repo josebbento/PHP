@@ -8,6 +8,7 @@
 			background-position: center;	/*deixa a imagem no centro*/
 			background-size: cover;			/*tamanho, cover = cobrir*/
 			background-attachment: fixed;	/*a imagem fica fixada na página, se movendo junto com o scroll*/
+			color: #fff;
 		}
 	</style>
 </head>
@@ -23,7 +24,10 @@
 <h2>Introdução:</h2>
 
 <?php
-	echo nl2br("Este projeto foi realizado para uma atividade da diciplina de redes que consistia em criar um servidor do tipo LAMP, Linux, Appax, MySQL e PHP, e hospedar um site criado pelo grupo, além do mais, nele, deve-se por as principais dificuldades que o grupo enfrentou e o seu feedback sobre a atividade")
+	  echo nl2br("Este projeto foi realizado para uma atividade da diciplina de redes que
+	              consistia em criar um servidor do tipo LAMP, Linux, Appax, MySQL e PHP,
+				  e hospedar um site criado pelo grupo, além do mais, nele, deve-se por as
+				  principais dificuldades que o grupo enfrentou e o seu feedback sobre a atividade")
 ?>
 	
 <h2>Dificuldades:</h2>
